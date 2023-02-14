@@ -1,8 +1,11 @@
 ### Hola! Mi nombre es Nicolas 👋
 
 Soy egresado de CODO A CODO 4.0 - Bootcamp en el cual realicé el curso de JAVA FULL STACK.
+<br>
 A su vez realicé el curso de Data Analytics en CODERHOUSE y actualmente me encuentro cursando el de DATA SCIENCE en la misma entidad.
+<br>
 Me encuentro a la espera de que me brinden la confirmación de unos cursos nuevos donde empezaré la especializacion del framework SPRING para java y/o la cursada de PYTHON FULL STACK en CODO A CODO 5.0
+<br>
 Estoy en proceso contínuo de mejora, aprovechando todas las posibilidades que estén a mi alcance o generandolas.
 
 ## TECNOLOGIAS DEV
