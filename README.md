@@ -13,8 +13,8 @@ Estoy en proceso contínuo de mejora, aprovechando todas las posibilidades que e
 
 ## TECNOLOGIAS DATA
 
- [![PowerBI](https://img.shields.io/badge/Excel-F7DF1E?style=for-the-badge&logo=excel&logoColor=white&labelColor=101010)]()
- [![PowerQuery](https://img.shields.io/badge/Excel-F7DF1E?style=for-the-badge&logo=excel&logoColor=white&labelColor=101010)]()
+ [![PowerBI](https://img.shields.io/badge/PowerBI-F7DF1E?style=for-the-badge&logo=excel&logoColor=white&labelColor=101010)]()
+ [![PowerQuery](https://img.shields.io/badge/PowerQuery-F7DF1E?style=for-the-badge&logo=excel&logoColor=white&labelColor=101010)]()
  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
  [![Excel](https://img.shields.io/badge/Excel-3DDC84?style=for-the-badge&logo=excel&logoColor=white&labelColor=101010)]()
  [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
